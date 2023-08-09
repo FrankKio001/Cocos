@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "8333bb03-b478-45de-b89f-9767ae7a654c",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 112,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "Dungeon_Character": {
+      "ver": "1.0.6",
+      "uuid": "cde49e3e-067d-4995-8ff1-5f7a343457fa",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "8333bb03-b478-45de-b89f-9767ae7a654c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 112,
+      "height": 63,
+      "rawWidth": 112,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
